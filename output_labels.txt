@@ -1,0 +1,6 @@
+brown leaf spot
+green mite damage
+healthy
+cmd
+red mite damage
+cbsd

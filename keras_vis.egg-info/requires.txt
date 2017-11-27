@@ -1,0 +1,15 @@
+keras
+six
+scikit-image
+matplotlib
+h5py
+
+[tests]
+pytest
+pytest-pep8
+pytest-xdist
+pytest-cov
+
+[vis_utils]
+Pillow
+imageio
